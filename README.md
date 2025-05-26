@@ -40,6 +40,7 @@ Copy
 Edit
 npm run build
 📷 Screenshots
+![Project Screenshot](https://github.com/AniketShinde03/Node_Frontend_Assignment/blob/main/src/assets/Project_ScreenShot.png?raw=true)
 
 
 🏗 Project Structure
